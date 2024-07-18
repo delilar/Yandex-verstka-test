@@ -550,6 +550,10 @@ footer p {
         width: 335px;
     }
 
+    .intro {
+        margin-top: 30px;
+    }
+
     .intro h2 {
         font-size: 36px;
     }
@@ -888,6 +892,10 @@ footer p {
     
     .wrapper {
         width: 1222px;
+    }
+
+    .intro {
+        margin-top: 62px;
     }
 
     .intro h2 {
